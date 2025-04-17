@@ -7,7 +7,7 @@ Intersection Observer API를 활용한 스크롤 애니메이션<br>
 웹 접근성과 시멘틱 마크업 준수<br>
 
 ## 📽️Preview 
-
+https://github.com/chae0Park/interpark-clone/issues/1#issue-3001617683
 <br>
 
 ## 🧱 기술 스택
