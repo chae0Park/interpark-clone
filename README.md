@@ -7,7 +7,7 @@ Intersection Observer API를 활용한 스크롤 애니메이션<br>
 웹 접근성과 시멘틱 마크업 준수<br>
 
 ## 📽️Preview 
-https://github.com/user-attachments/assets/54356664-ac43-4ef0-9fe8-2827c37c2fb2
+https://github-production-user-asset-6210df.s3.amazonaws.com/148793609/434676654-54356664-ac43-4ef0-9fe8-2827c37c2fb2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250417T070045Z&X-Amz-Expires=300&X-Amz-Signature=fd776016b4916f2c772dc55fe137dcae02d2c2cc1e0385e45ef7252383378498&X-Amz-SignedHeaders=host
 <br>
 
 ## 🧱 기술 스택
